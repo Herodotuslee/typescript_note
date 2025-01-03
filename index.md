@@ -1,0 +1,4 @@
+- Alternative to Javascript (superset)
+- Allow us to use strict types
+- browsers do not understand typescript
+  - so we need to install a compiler
